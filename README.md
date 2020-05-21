@@ -9,6 +9,7 @@ The following modules are required for this program to run:
 NOTE: Make sure that the photos folder is in the same directory as the python file.
 
 Contributers:
+
 Nandakishore S Menon
 
 Pranav Reddy
