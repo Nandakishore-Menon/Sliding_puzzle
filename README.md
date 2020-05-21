@@ -10,5 +10,7 @@ NOTE: Make sure that the photos folder is in the same directory as the python fi
 
 Contributers:
 Nandakishore S Menon
+
 Pranav Reddy
+
 Sai Pallav
