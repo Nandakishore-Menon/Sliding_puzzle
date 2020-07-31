@@ -9,7 +9,7 @@ The following modules are required for this program to run:
 NOTE: Make sure that the photos folder is in the same directory as the python file.
 
 ## To run:
-'python3 sliding.py'
+`python3 sliding.py`
 
 Contributers:
 
